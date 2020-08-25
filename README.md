@@ -1,6 +1,6 @@
 # azure-function-table-storage-rest-api
 
-Create `local.setting.json` file
+Create `local.setting.json` file after cloning the project
 ```
 {
     "IsEncrypted": false,
